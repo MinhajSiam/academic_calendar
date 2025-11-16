@@ -286,7 +286,6 @@ tbody td.holiday:hover {
 /* ১. সিটি (Class Test) - সলিড বেগুনি */
 .exam-ct {
     background-color: #8e44ad;
-    background-color: #777777;
     /* সলিড বেগুনি ব্যাকগ্রাউন্ড */
     color: #ffffff;
     /* সাদা টেক্সট */
@@ -307,7 +306,6 @@ tbody td.holiday:hover {
 /* ২. অর্ধবার্ষিক (Half-Yearly) - সলিড সবুজ */
 .exam-half-yearly {
     background-color: #27ae60;
-    background-color: #777777;
     /* সলিড সবুজ ব্যাকগ্রাউন্ড */
     color: #ffffff;
     /* সাদা টেক্সট */
@@ -326,7 +324,6 @@ tbody td.holiday:hover {
 /* ৩. বার্ষিক (Annual) - সলিড কমলা */
 .exam-annual {
     background-color: #e67e22;
-    background-color: #777777;
     /* সলিড কমলা ব্যাকগ্রাউন্ড */
     color: #ffffff;
     /* সাদা টেক্সট */
